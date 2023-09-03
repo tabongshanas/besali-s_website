@@ -646,6 +646,11 @@ ul li ul li:hover .sub-menu-2 {
         font-size: 20px;
     }
 }
+@media (max-width: 1502px) {
+    .besali-chiefs.b1 {
+        margin-left: 5px;
+    }
+}
 
 
 .text-seperate {
@@ -679,4 +684,11 @@ ul li ul li:hover .sub-menu-2 {
 }
 .cycle-age-day-1 {
     border: 1px solid black;
+}
+
+
+
+.bold {
+    font-size: 27px;
+    text-transform: capitalize;
 }
