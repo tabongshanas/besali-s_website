@@ -618,6 +618,9 @@ ul li ul li:hover .sub-menu-2 {
     .unit-one-text {
         font-size: 20px;
     }
+    .paragraph {
+        font-size: 20px;
+    }
 }
 
 @media (max-width: 400px) {
